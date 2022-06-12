@@ -7,7 +7,6 @@ public class Manager extends Member {
                    String address, double salary, String department) {
         super(name, age, phoneNumber, address, salary);
         this.department = department;
-        System.out.println("Manager name:"+ name+ "\n " +"age:"+ age + " \n"+ "Phone number:"+phoneNumber+"\n" +"Address:"+address+"\n "+"Salary:"+salary);
     }
         public static void main (String[]args){
             Employee employee = new Employee("Tom", 25, "555-555-55", "Home", 25631.5, "IT");

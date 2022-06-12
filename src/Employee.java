@@ -7,7 +7,6 @@ public class Employee extends Member {
 
         this.specialization = specialization;
 
-        System.out.println("Employee name:"+ name+ "\n " +"age:"+ age + " \n"+ "Phone number:"+phoneNumber+"\n" +"Address:"+address+"\n "+"Salary:"+salary);
     }
 
 }
