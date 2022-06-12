@@ -14,7 +14,7 @@ public class Member {
     }
 
     public void printSalary() {
-        System.out.println("Salary:" +salary);
+
     }
 }
 
