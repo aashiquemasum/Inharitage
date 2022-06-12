@@ -14,7 +14,7 @@ public class Member {
     }
 
     public void printSalary() {
-      System.out.println("Employee name:"+ name+ "\n " +"age:"+ age + " \n"+ "Phone number:"+phoneNumber+"\n" +"Address:"+address+"\n "+"Salary:"+salary);
+      System.out.println("Salary:"+salary);
     }
 }
 
